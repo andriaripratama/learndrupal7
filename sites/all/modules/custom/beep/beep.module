@@ -3,9 +3,16 @@
  * @file
  * Provide a simulated beep.
  */
-function beep_beep_action() {
+function beep_beep() {
     watchdog('beep', 'Beep!');
-    //exit();
+}
+
+function beep_beep_action() {
+    beep_beep();
+}
+
+function bee_multiple_beep_action(){
+    beep_beep();
 }
 
 /**
@@ -17,6 +24,12 @@ function beep_action_info() {
         'type' => 'system',
         'label' => t('Beep annoyingly'),
         'configurable' => FALSE,
+        'triggers' => array('node_view', 'node_insert', 'node_update', 'node_delete'),
+        ),
+        'beep_multiple_beep_action' => array(
+        'type' => 'system',
+        'label' => t('Beep multiple times'),
+        'configurable' => TRUE,
         'triggers' => array('node_view', 'node_insert', 'node_update', 'node_delete'),
         ),
         );
