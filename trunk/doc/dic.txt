@@ -8,3 +8,5 @@ indicates		chỉ ra
 
 ch3:
 huge		lớn
+contrlversial	bàn cải được
+pay to		trả tiền để

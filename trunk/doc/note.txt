@@ -1,3 +1,8 @@
 Table 3-1. Examples of Drupal Events (ch3 65/721)
 Table 3-2. How Hooks and Triggers Relate in Drupal 7 (ch3 37 69/721)
 Table 3-3. Summary of How Simple and Advanced Actions Differ (ch3 41 73/721)
+
+line if(!is_int($beeps)) change to if(!is_numberic($beeps))	 (ch3 43 75/721)
+
+You’ll notice that the action accepts two parameters, $object and $context. This is in contrast to the
+simple action we wrote earlier, which used no parameters (ch3 45 77/721)
