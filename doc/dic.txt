@@ -10,3 +10,15 @@ ch3:
 huge		lớn
 contrlversial	bàn cải được
 pay to		trả tiền để
+chance		cơ hội
+particular		cụ thể
+candidates	ứng cử viên
+straightforward	minh bạch, ngay thẳng
+consulted		tham khảo
+distinguish	phân biệt, nhận ra
+stashing		
+traditional	truyền thống
+delegated to	giao cho
+
+ch4: the menu system
+respondsibilities	trách nhiệm
