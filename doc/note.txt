@@ -11,3 +11,5 @@ ch4: the menu system
 
 Drupal goes through the following steps when a request comes in: (ch4 58 90/721)
 Table 4-1. Hook_men() Key/Value attributes (ch4 61 93/721)
+
+line 'type'=>MENU_CALLBACK change to 'type'=>MENU_NORMAL_ITEM (ch4 63 95/721)

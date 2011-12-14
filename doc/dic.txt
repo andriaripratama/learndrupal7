@@ -27,3 +27,4 @@ inventory		kiểm kê, tồn kho
 quietly		lặng lẽ, âm thầm
 experiment	thử nghiệm
 foregoing		đã nói trên
+interfere		can thiệp
