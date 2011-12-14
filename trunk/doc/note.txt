@@ -8,3 +8,6 @@ You’ll notice that the action accepts two parameters, $object and $context. This
 simple action we wrote earlier, which used no parameters (ch3 45 77/721)
 
 ch4: the menu system
+
+Drupal goes through the following steps when a request comes in: (ch4 58 90/721)
+Table 4-1. Hook_men() Key/Value attributes (ch4 61 93/721)
