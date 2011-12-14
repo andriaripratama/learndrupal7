@@ -22,3 +22,7 @@ delegated to	giao cho
 
 ch4: the menu system
 respondsibilities	trách nhiệm
+wildcards		ký hiệu
+inventory		kiểm kê, tồn kho
+quietly		lặng lẽ, âm thầm
+experiment	thử nghiệm
