@@ -28,3 +28,15 @@ quietly		lặng lẽ, âm thầm
 experiment	thử nghiệm
 foregoing		đã nói trên
 interfere		can thiệp
+
+ch5: working with database
+drudgery		làm cực nhọc, làm vất vả
+fret		băn khoăn
+precision		chính xác, rỏ ràng
+permanent	vĩnh viễn, luôn luôn, thường xuyên
+
+ch6: Working with Users
+collaborate	hợp tác, cộng tác
+inspected		kiểm tra
+variants		biến thể
+arbitrary		tùy ý, tự tiện, chuyên quyền

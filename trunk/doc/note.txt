@@ -13,3 +13,12 @@ Drupal goes through the following steps when a request comes in: (ch4 58 90/721)
 Table 4-1. Hook_men() Key/Value attributes (ch4 61 93/721)
 
 line 'type'=>MENU_CALLBACK change to 'type'=>MENU_NORMAL_ITEM (ch4 63 95/721)
+
+ch5: working with database
+
+Table 5-1. How Type and Size Keys in Schema Definitions Map to Native Database Types (ch5 107 139/721)
+
+ch6: Working with Users
+Table 6-1. Components of the $user Object (ch6 117 149/721)
+Table 6-2. hook user Functions (ch6 119 151/721)
+Figure 6-3. Path of execution for a local user login (ch6 126 158/721)
