@@ -32,3 +32,5 @@ Figure 7-8. Determining node access for a given node (ch7 160 192/721)
 
 ch8: working with Fields
 Table 8-1. Standard Field Types in Drupal 7 Core (ch8 170 202/721)
+
+ch9: The Themes System
