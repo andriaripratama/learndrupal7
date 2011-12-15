@@ -22,3 +22,13 @@ ch6: Working with Users
 Table 6-1. Components of the $user Object (ch6 117 149/721)
 Table 6-2. hook user Functions (ch6 119 151/721)
 Figure 6-3. Path of execution for a local user login (ch6 126 158/721)
+Figure 6-6. Detail of the external user login/registration process (ch6 135 167/721)
+
+ch7: Working with Nodes
+Here’s a list of the primary node_xxxx hook functions (ch7 154 186/721)
+Figure 7-6. Path of execution for displaying a node page (ch7 155 187/721)
+Table 7-2. The Default Record for the node_access Table (ch7 157 189/721)
+Figure 7-8. Determining node access for a given node (ch7 160 192/721)
+
+ch8: working with Fields
+Table 8-1. Standard Field Types in Drupal 7 Core (ch8 170 202/721)

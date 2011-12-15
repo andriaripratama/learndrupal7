@@ -40,3 +40,21 @@ collaborate	hợp tác, cộng tác
 inspected		kiểm tra
 variants		biến thể
 arbitrary		tùy ý, tự tiện, chuyên quyền
+
+ch7: Working with Nodes
+flexibility		linh hoạt
+investigate	điều tra, dò xét, nghiên cứu, xem xét
+mechanism	cơ chế, sự tổ chức, cách cấu tạo
+respectively	tương ứng, tương đối với
+abbreviated	viết tắt
+synonym		từ đồng nghĩa
+react		phản ứng
+tedious		tẻ nhạt, buồn chán
+collision		va chạm
+eliminate		loại bỏ
+realm		lĩnh vực, địa hạt, vương quốc
+
+ch8: working with Fields
+dramatically	đáng kễ
+incorporating	kết hợp
+constitutes	cấu thành
