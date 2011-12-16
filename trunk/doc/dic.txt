@@ -60,3 +60,10 @@ incorporating	kết hợp
 constitutes	cấu thành
 
 ch9: The Themes System
+incorporate	kết hợp, tổ chức
+significance	ý nghĩa, trọng đại
+mixture		hỗn hợp, sự pha trộn
+beneath		bên dưới, ở dưới
+contextually	theo ngữ cảnh
+predominantly	chủ yếu
+

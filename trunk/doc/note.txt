@@ -34,3 +34,13 @@ ch8: working with Fields
 Table 8-1. Standard Field Types in Drupal 7 Core (ch8 170 202/721)
 
 ch9: The Themes System
+Understanding Template Files (ch9 198 230/721)
+Figure 9-5. Other templates are inserted within the encompassing page.tpl.php file (ch9 199 231/721)
+Table 9-1. Drupal’s Core Template Files (ch9 200 231/721)
+Table 9-2. Variables That Are Available for Use Within the html.tpl.php File (ch9 202 234/721)
+Table 9-3. Standard Variables Available to page.tpl.php (ch9 205 237/721)
+Table 9-4. Standard Variables Available to region.tpl.php (ch9 207 239/721)
+Table 9-5. Standard Variables Available to node.tpl.php (ch9 209 241/721)
+Table 9-6. Standard Variables Available to field.tpl.php (ch9 211 243/721)
+Table 9-7. Standard Variables Available to block.tpl.php (ch9 214 245/721)
+
