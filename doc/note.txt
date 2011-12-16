@@ -43,4 +43,12 @@ Table 9-4. Standard Variables Available to region.tpl.php (ch9 207 239/721)
 Table 9-5. Standard Variables Available to node.tpl.php (ch9 209 241/721)
 Table 9-6. Standard Variables Available to field.tpl.php (ch9 211 243/721)
 Table 9-7. Standard Variables Available to block.tpl.php (ch9 214 245/721)
+-- Note If your custom page.tpl.php file doesn’t appear to be working, remember to visit
+admin/config/development/performance and clear your site’s cache. (ch9 214 245/721)
+An Overview of How theme() Works (ch9 216 248/721)
+
+ch10: Working with Blocks
+Table 10-1. Standard Blocks (ch10 223 255/721)
+Table 10-2. Examples of Custom Blocks (ch10 224 256/721)
+Figure 10-3. Database schema for blocks (ch10 228 260/721)
 

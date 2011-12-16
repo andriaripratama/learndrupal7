@@ -66,4 +66,8 @@ mixture		hỗn hợp, sự pha trộn
 beneath		bên dưới, ở dưới
 contextually	theo ngữ cảnh
 predominantly	chủ yếu
+exposed		tiếp xúc
+discern		phân biệt, nhận rỏ, nhận thức
+
+ ch10: Working with Blocks
 
